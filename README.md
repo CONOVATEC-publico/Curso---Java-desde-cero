@@ -2,7 +2,7 @@
 Fundamentos de Java
 
 😎 Profesor:
-Oswaldo Cruz -> 
+Oswaldo Cruz -> https://github.com/oDanielCruz
 
 Playlist del cuso:
 https://www.youtube.com/watch?v=le4b_ckNdu4&list=PLj3oANgB7rtoyiv0UGh7kOP6iE9Sr3eGZ
